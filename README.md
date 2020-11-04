@@ -25,7 +25,7 @@ Note: You can input your schedule in Red and Green, however you cannot input any
 If you compare from the first image to this, you can see that the time is able to pass through hourly.
 
 
-![startUp Page](images/dataStore.png)
+![startUp Page](Images/dataStore.png)
 If the user submits their inputs, whether it is entered or not. The data will be stored even when the user refreshes the page. The image shows the data being stored. 
 
 
